@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pushanpore014
 - 👀 I’m interested in data science and data engineering and database operations
 - 🌱 I’m currently learning Computer Science and Engineering 
-- 
 - 📫 Mail:pushanpore123@gmail.com
 
 <!---
