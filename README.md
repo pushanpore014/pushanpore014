@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pushanpore014
 - 👀 I’m interested in data science and data engineering and database operations
-- 🌱 I’m currently learning Computer Science and Engineering 
+- 🌱 I’m currently working in Capgemini as Junior Data Engineer with 2+ years of expereience
 - 📫 Mail:pushan.pore.work@gmail.com
 
 <!---
